@@ -10,6 +10,4 @@ function greeting(name){
 
 greeting("Sony")
 greeting("Tony")
-greeting("Mony")
-greeting("Kony")
 
